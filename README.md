@@ -1,4 +1,4 @@
-### Script to move files from folder
+### Script to move files from one folder to another
 ```
 sh file.sh <input_dir> <output_dir>
 ```
